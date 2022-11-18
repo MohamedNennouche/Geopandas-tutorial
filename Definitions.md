@@ -6,3 +6,9 @@
 - geopy : Sert à faire du geocoding
 - rtree : Sert à faire de simples analyses spatiales
 - pysal : Sert à faire des analyses plus profondes et servira essentiellement à faire des colorations de maps suivant certaines règles
+### Les principaux types de fichiers utilisés 
+- Fichier shapefile : .shp
+- Fichier GeoJson : .geojson
+- Fichier raster : .tif
+- Fichier GeoPackage : .gpkg
+- Fichier Projection : .prj (fichier contenant les projections)
